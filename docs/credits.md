@@ -161,6 +161,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/royshreyaa">
+            <img src="https://avatars.githubusercontent.com/u/139828242?v=4" width="80;" alt="royshreyaa"/>
+            <br />
+            <sub><b>royshreyaa</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/XertDev">
             <img src="https://avatars.githubusercontent.com/u/16572811?v=4" width="80;" alt="XertDev"/>
             <br />
@@ -173,7 +180,8 @@
             <br />
             <sub><b>Aniket Teredesai</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jnach">
             <img src="https://avatars.githubusercontent.com/u/33467747?v=4" width="80;" alt="jnach"/>
